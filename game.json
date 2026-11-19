@@ -1,0 +1,72 @@
+{
+  "spec": 1,
+  "id": "deep-strike",
+  "name": {
+    "en": "Deep Strike",
+    "zh": "深空突袭"
+  },
+  "summary": {
+    "en": "Pixel FPS in a mining station silent for 71 hours.",
+    "zh": "失联 71 小时的采掘站里，第一人称像素射击。"
+  },
+  "author": {
+    "name": "wangshuwen57-source",
+    "url": "https://github.com/wangshuwen57-source"
+  },
+  "entry": "game/index.html",
+  "icon": "store/icon.png",
+  "cover": "store/cover.jpg",
+  "screenshots": [
+    {
+      "src": "store/shot-1.jpg",
+      "caption": {
+        "en": "Sector 1 — cold grey",
+        "zh": "第 1 区 · 冷灰"
+      }
+    },
+    {
+      "src": "store/shot-2.jpg",
+      "caption": {
+        "en": "Lab sector",
+        "zh": "实验区"
+      }
+    },
+    {
+      "src": "store/shot-3.jpg",
+      "caption": {
+        "en": "Cooling tower",
+        "zh": "冷却塔"
+      }
+    },
+    {
+      "src": "store/shot-4.jpg",
+      "caption": {
+        "en": "Shotgun in hand",
+        "zh": "手持霰弹枪"
+      }
+    }
+  ],
+  "about": {
+    "en": "store/about.en.md",
+    "zh": "store/about.zh.md"
+  },
+  "languages": [
+    "zh-CN"
+  ],
+  "controls": [
+    "keyboard",
+    "mouse",
+    "touch"
+  ],
+  "players": {
+    "min": 1,
+    "max": 1
+  },
+  "content": {
+    "rating": "teen",
+    "notes": {
+      "en": "Stylised pixel violence: shooting blocky enemies, explosions, and a horror-leaning sci-fi story with mentions of death and body horror. No blood detail, no gore.",
+      "zh": "像素风格的战斗表现：射击方块状敌人、爆炸，以及带恐怖倾向的科幻剧情（提到死亡与身体异变）。没有血腥细节描写。"
+    }
+  }
+}

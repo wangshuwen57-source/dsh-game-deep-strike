@@ -1,0 +1,32 @@
+{
+  "name": "dsh-game-deep-strike",
+  "version": "1.0.0",
+  "description": "Deep Strike — a pixel-art first-person shooter set in a mining station silent for 71 hours.",
+  "license": "MIT",
+  "author": "wangshuwen57-source",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangshuwen57-source/dsh-game-deep-strike.git"
+  },
+  "keywords": [
+    "dsh",
+    "dsh-game",
+    "deepseek-harness",
+    "game"
+  ],
+  "icon": "./store/icon.png",
+  "files": [
+    "game",
+    "store",
+    "game.json",
+    "cordis.patch.yml",
+    "README.md",
+    "LICENSE"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "dshGame": "./game.json"
+}
